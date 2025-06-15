@@ -19,7 +19,7 @@
 - [📌 声明 / Disclaimer](#声明--disclaimer)
 - [🤝 贡献方式 / Contribution](#贡献方式--contribution)
 - [📝 许可证 / License](#许可证--license)
-- [🌟 欢迎Star & 分享 / Star Support](#欢迎star--分享--star-support)
+- [🌟 欢迎Star--分享 / Star Support](#欢迎star--分享--star-support)
 
 ---
 
